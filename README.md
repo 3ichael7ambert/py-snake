@@ -1,6 +1,6 @@
 # Snake Game Project
 
-#### Video Demo: [URL HERE]
+#### Video Demo: [[YouTube]](https://youtu.be/EBP89201HBY)
 
 #### Description:
 
